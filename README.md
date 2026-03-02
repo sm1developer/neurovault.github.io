@@ -112,6 +112,12 @@ All permissions, exceptions, or commercial licensing requests must be made **in 
 
 ---
 
+## 12. FINAL CLAUSE
+
+**If you did not receive explicit written permission, you have no rights beyond reading this code.**
+
+---
+
 Privacy Policy
 
 Effective: March 2026
@@ -157,8 +163,3 @@ Contact
 
 For privacy questions or requests, please contact support.
 
----
-
-## 12. FINAL CLAUSE
-
-**If you did not receive explicit written permission, you have no rights beyond reading this code.**
