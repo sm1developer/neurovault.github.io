@@ -159,7 +159,6 @@ Changes to This Policy
 
 We may update this Policy to reflect changes in features or legal requirements. Updates take effect upon posting within the app.
 
-Contact
-
+Contact: sm1appdeveloper@gmail.com
 For privacy questions or requests, please contact support.
 
