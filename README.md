@@ -106,7 +106,7 @@ This license shall be governed by and interpreted under the laws of **[YOUR COUN
 
 ---
 
-## 11. CONTACT FOR PERMISSIONS
+## 11. CONTACT FOR PERMISSIONS  sm1appdeveloper@gmail.com
 
 All permissions, exceptions, or commercial licensing requests must be made **in writing** to:
 
